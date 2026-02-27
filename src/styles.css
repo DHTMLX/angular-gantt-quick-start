@@ -1,0 +1,12 @@
+@import "@dhtmlx/trial-angular-gantt/dist/angular-gantt.css";
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+app-root {
+  display: block;
+  height: 100vh;
+}
