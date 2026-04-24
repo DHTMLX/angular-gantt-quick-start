@@ -26,7 +26,6 @@ export class GanttChartComponent {
   links = links;
 
   config = {
-    date_format: '%Y-%m-%d %H:%i',
     columns: [
       { name: 'text', tree: true, width: '*' },
       { name: 'start_date', label: 'Start', align: 'center' },
