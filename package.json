@@ -1,5 +1,16 @@
 {
   "name": "angular-gantt-quick-start",
+  "description": "Minimal Angular project that shows how to embed the @dhx/angular-gantt library in minutes.",
+  "author": "DHTMLX Team <support@dhtmlx.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DHTMLX/angular-gantt-quick-start#readme",
+  "keywords": [
+    "angular",
+    "gantt",
+    "dhtmlx",
+    "project-management",
+    "typescript"
+  ],
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -40,5 +51,12 @@
     "jsdom": "^27.1.0",
     "typescript": "~5.9.2",
     "vitest": "^4.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHTMLX/angular-gantt-quick-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DHTMLX/angular-gantt-quick-start/issues"
   }
 }
