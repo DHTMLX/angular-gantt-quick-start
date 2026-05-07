@@ -96,6 +96,10 @@ src/
 
 [Start your 30-day trial](https://dhtmlx.com/docs/products/dhtmlxGantt-for-Angular/download.shtml) to download the complete sample pack (auto-scheduling, resource histogram, etc.).
 
+## Related demos
+
+- [angular-gantt-rxjs-starter](https://github.com/DHTMLX/angular-gantt-rxjs-starter) — same Gantt, but wired to an RxJS state service with `BehaviorSubject`, `data.batchSave`, and snapshot-based undo/redo. Step up here when you need state management.
+
 ## License
 
 The code in this repository is released under the **MIT** License.
